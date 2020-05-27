@@ -1,2 +1,2 @@
 # js_battleships
-https://www.youtube.com/channel/UCPYWhu0v-_e1m8QdZvrdUTg
+https://www.youtube.com/watch?v=dJvIyTHNLso
